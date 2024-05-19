@@ -57,8 +57,10 @@ python model/train.py
 
 ## 结果
 分类效果如图
-
+![image](public/Picturetest.png)
 可视化效果如图
+![image](public/result.png)
+
 
 
 
