@@ -1,5 +1,4 @@
-# Enhancing pilomatricoma diagnosis to pathologist-level accuracy using hierarchical deep learning
-
+# Retrosynthetic analysis via deep learning to improve pilomatricoma diagnoses
 [![License](https://img.shields.io/github/license/用户名/仓库名)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/用户名/仓库名)](https://github.com/用户名/仓库名/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/用户名/仓库名)](https://github.com/用户名/仓库名/network)
